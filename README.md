@@ -1,3 +1,6 @@
+# about me:
+im rana shelbaya im22 years old and ifinished my bacheolar's degree from al albayt university this year ,i want to learn software development becouse it is the languge of the future .
+## my github account:rana469 
 # how we can benefit from agrowth mindest :
 ## which is open pathways creativity to get more achievments 
 # the grouth mindest:
@@ -17,16 +20,11 @@ there are many related article about this essue such as the one who wrote it by 
 what helped me in ghanging my mind was some open and frank conversation during reviews 
 **the develoment in and out the work** :our desire sometimes we cant control in it becouse of afixed mindest but we have to ghange it and acquest the wisdom and acheievment by the hard work 
 
-
-remidings to me to keep myself in grouth mindest 
+ 
  - i must learn from other
 - make an effort
 - learn from the previos days 
 
 
 
-# rana shelbaya 
-# ranashelbaya.98@yahoo.com
-[RANA469
-/
-READING-NOTES-](docs/README.md)
+
