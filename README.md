@@ -1,6 +1,6 @@
 # about me:
 im rana shelbaya im22 years old and ifinished my bacheolar's degree from al albayt university this year ,i want to learn software development becouse it is the languge of the future .
-## my github account:rana469 
+## [GitHub Pages](https://github.com/RANA469) 
 # how we can benefit from agrowth mindest :
 ## which is open pathways creativity to get more achievments 
 # the grouth mindest:
