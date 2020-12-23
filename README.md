@@ -17,7 +17,7 @@ there are many related article about this essue such as the one who wrote it by 
 *SUCCESSS OF OTHERS* :we mustnt feel jealous  of others success but we should learn from them 
 what helped me in ghanging my mind was some open and frank conversation during reviews 
 **the develoment in and out the work** :our desire sometimes we cant control in it becouse of afixed mindest but we have to ghange it and acquest the wisdom and acheievment by the hard work 
-#thanks for reading 
+# thanks for reading 
 
 
 
