@@ -8,7 +8,8 @@ im rana shelbaya im22 years old and ifinished my bacheolar's degree from al alba
 `git status`
 - ability 
 - itelligence
-- talent ~~and the seccuss came frome those qualities~~
+- talent
+~~and the seccuss came frome those qualities~~
 and there are many differances betwwen the fixed and growth mindest 
 becouse this concept i discoverd that when im trieng things i got it without facing  problems but when it come in my works it is differ 
 the inablity to use keeps me from heading home smile so he wrote this to save myself out for fixed mindedness so we can help ourself by develpe our mind
@@ -20,10 +21,6 @@ there are many related article about this essue such as the one who wrote it by 
 what helped me in ghanging my mind was some open and frank conversation during reviews 
 **the develoment in and out the work** :our desire sometimes we cant control in it becouse of afixed mindest but we have to ghange it and acquest the wisdom and acheievment by the hard work 
 
- 
- - i must learn from other
-- make an effort
-- learn from the previos days 
 
 
 
