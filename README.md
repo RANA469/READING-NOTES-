@@ -1,8 +1,7 @@
-# how we can benefit from agrowth mindest :
-## which is open pathways creativity to get more achievments 
 # the grouth mindest:
-## which is beileve that the man can improve his
-`git status`
+ which is open pathways creativity to get more achievments 
+ which is beileve that the man can improve his
+
 - ability 
 - itelligence
 - talent ~~and the seccuss came frome those qualities~~
@@ -19,7 +18,8 @@ what helped me in ghanging my mind was some open and frank conversation during r
 
 
 remidings to me to keep myself in grouth mindest 
- - i must learn from other
+
+- i must learn from other
 - make an effort
 - learn from the previos days 
 
