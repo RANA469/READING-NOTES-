@@ -5,7 +5,7 @@ im rana shelbaya im22 years old and ifinished my bacheolar's degree from al alba
 
 | title | link |
 | ----- | --------------------------------------------------------------- |
-| read1 | [link to read1](https://github.com/RANA469/READING-NOTES-/blob/main/read-01) |
+| read1 | [link to read1](https://rana469.github.io/READING-NOTES-/read-01) |
 | read4 |[link to read2](https://github.com/RANA469/READING-NOTES-/blob/main/read-02)|
 |read6|[link to read3](https://github.com/RANA469/READING-NOTES-/blob/main/read-03)|
 | read6b|[link to read6](https://github.com/RANA469/READING-NOTES-/blob/main/read-06-a)|
