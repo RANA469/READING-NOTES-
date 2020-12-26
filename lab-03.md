@@ -13,9 +13,9 @@ talent and the seccuss came frome those qualities =======
 | title | link |
 | ----- | --------------------------------------------------------------- |
 | read1 | [link to read1](https://github.com/RANA469/READING-NOTES-/blob/main/read-01) |
-| read4 |[link to read2(https://github.com/RANA469/READING-NOTES-/blob/main/read-02)|
-|read6|[link to read3(https://github.com/RANA469/READING-NOTES-/blob/main/read-03)|
-| read6b|[link to read6](https://github.com/RANA469/READING-NOTES-/blob/main/read-06-a)|
+| read2 |[link to read2](https://github.com/RANA469/READING-NOTES-/blob/main/read-02)|
+| read3 |[link to read3](https://github.com/RANA469/READING-NOTES-/blob/main/read-03)|
+| read6a|[link to read6](https://github.com/RANA469/READING-NOTES-/blob/main/read-06-a)|
 | read7 |[link to read7](https://github.com/RANA469/READING-NOTES-/blob/main/read-07.md)|
 | read8 | [link to read8](https://github.com/RANA469/READING-NOTES-/blob/main/read-08.md) |
 
